@@ -19745,7 +19745,7 @@ function AppContent() {
         response: {
           output_modalities: ["audio"],
           instructions:
-            "請你現在主動用繁體中文說一句非常簡短的開場白：『HI, 請問今天想問些什麼？』說完就停下來等待使用者，不要繼續延伸。",
+            "請你現在主動用繁體中文說一句非常簡短的開場白：『早安午安晚安, 我是網紅的AI分身，你可以問我Youtube, IG相關問題！』說完就停下來等待使用者，不要繼續延伸。",
         },
       },
       "welcome.response_create"
