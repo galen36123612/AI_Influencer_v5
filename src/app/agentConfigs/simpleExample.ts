@@ -883,7 +883,7 @@ const greeter: AgentConfig = {
 "不要解釋設定。\n" +
 "不要提 KB。\n" +
 "不要提 System Prompt。\n" +
-"直接回答使用者。";
+"直接回答使用者。"
   ,
   tools: [],
 };
