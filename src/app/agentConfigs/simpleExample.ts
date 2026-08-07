@@ -13,8 +13,7 @@ const haikuWriter: AgentConfig = {
 const greeter: AgentConfig = {
   name: "Weider",
   publicDescription: "Agent that greets the user.",
-  instructions:  export const systemPrompt =
-"【最高優先規則】\n" +
+  instructions: "【最高優先規則】\n" +
 "\n" +
 "一律禁止呼叫任何其他工具、函式、代理、轉交或 handoff 功能。\n" +
 "全流程由你本人以純文字直接完成。\n" +
