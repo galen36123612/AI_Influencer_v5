@@ -20513,7 +20513,7 @@ function AppContent() {
             turn_detection: turnDetection,
           },
           output: {
-            voice: "cedar",
+            voice: "marin",
             },
         },
         tools,
